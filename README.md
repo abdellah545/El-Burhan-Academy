@@ -15,7 +15,6 @@ This repository showcases our contributions to the El-Burhan Academy Web Applica
 - [Features](#features)
   - [Authentication](#authentication)
   - [Real-Time Communication](#real-time-communication)
-  - [Logging](#logging)
   - [Family Account](#family-account)
 - [Screenshots](#screenshots)
   - [Admin Panel](#admin-panel-screenshots)
@@ -26,22 +25,20 @@ This repository showcases our contributions to the El-Burhan Academy Web Applica
 
 ## Key Responsibilities
 
-- Managed the overall project as the Project Manager.
-- Led the backend development team using ASP.NET Core.
-- Implemented authentication and authorization using JSON Web Tokens (JWT) to ensure secure access.
-- Developed and managed the database using SQL and Entity Framework.
-- Utilized SignalR for real-time web functionalities.
-- Employed Serilog for advanced logging and diagnostics.
-- Coordinated hosting on Microsoft Azure, ensuring scalability and reliability.
+- Developed the front-end using React.js to create a dynamic and responsive user interface.
+- Utilized Bootstrap for CSS to ensure a modern, responsive design across all pages.
+- Integrated with backend APIs to display data and handle user interactions.
+- Implemented reusable React components to streamline development and ensure consistency.
+- Collaborated with the backend team to integrate SignalR for real-time updates.
+- Employed best practices for state management and component lifecycle methods.
+- Participated in code reviews to maintain high-quality standards and ensure code consistency.
 
 ## Technologies Used
 
-- **Backend**: ASP.NET Core
-- **Database**: SQL with Entity Framework
+- **Frontend**: React.js
+- **CSS Framework**: Bootstrap
 - **Real-Time Communication**: SignalR
-- **Authentication**: JSON Web Tokens (JWT)
-- **Logging**: Serilog
-- **Hosting**: Microsoft Azure
+- **Version Control**: Git
 
 ## Project Details
 
@@ -61,15 +58,11 @@ The public-facing website where users can access educational content.
 
 ### Authentication
 
-Secure user authentication and authorization using JSON Web Tokens (JWT).
+Secure user authentication and authorization integrated with backend JWT authentication.
 
 ### Real-Time Communication
 
 Real-time updates and notifications using SignalR.
-
-### Logging
-
-Advanced logging and diagnostics using Serilog.
 
 ### Family Account
 
@@ -100,7 +93,7 @@ Family accounts allow parents to monitor their children's progress and manage pa
 
 - Delivered a seamless and secure learning platform.
 - Enhanced user experience with real-time functionalities.
-- Ensured data integrity and security through robust authentication mechanisms.
+- Ensured data integrity and security through robust front-end and backend integration.
 - Maintained high application performance and reliability.
 
 ## Team Members
@@ -119,7 +112,5 @@ This project was developed by the Art of Coding team:
 
 Feel free to reach out to me for more information or any queries related to this project.
 
-- **Email**: [sayed.work223@gmail.com](mailto:sayed.work223@gmail.com)
-- **LinkedIn**: [Sayed Elmahdy](https://www.linkedin.com/in/sayed-elmahdy365/)
-
----
+- **Email**: [seif.ahmedxt@gmail.com](mailto:seif.ahmedxt@gmail.com)
+- **LinkedIn**: [Seif El-Deen Ahmed](https://www.linkedin.com/in/seif-ahmed-a56237235/)
